@@ -1,0 +1,9 @@
+C:\Users\ThinkPad\source\repos\STATKI\STATKI_SERWER\bin\Debug\STATKI_SERWER.exe.config
+C:\Users\ThinkPad\source\repos\STATKI\STATKI_SERWER\bin\Debug\STATKI_SERWER.exe
+C:\Users\ThinkPad\source\repos\STATKI\STATKI_SERWER\bin\Debug\STATKI_SERWER.pdb
+C:\Users\ThinkPad\source\repos\STATKI\STATKI_SERWER\obj\Debug\STATKI_SERWER.csprojAssemblyReference.cache
+C:\Users\ThinkPad\source\repos\STATKI\STATKI_SERWER\obj\Debug\STATKI_SERWER.Form1.resources
+C:\Users\ThinkPad\source\repos\STATKI\STATKI_SERWER\obj\Debug\STATKI_SERWER.Properties.Resources.resources
+C:\Users\ThinkPad\source\repos\STATKI\STATKI_SERWER\obj\Debug\STATKI_SERWER.csproj.GenerateResource.cache
+C:\Users\ThinkPad\source\repos\STATKI\STATKI_SERWER\obj\Debug\STATKI_SERWER.exe
+C:\Users\ThinkPad\source\repos\STATKI\STATKI_SERWER\obj\Debug\STATKI_SERWER.pdb

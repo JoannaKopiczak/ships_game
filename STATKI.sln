@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STATKI", "STATKI\STATKI.csproj", "{4DB59F45-E1A8-472C-BE4D-E4706F87D539}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STATKI_SERWER", "STATKI_SERWER\STATKI_SERWER.csproj", "{486B33AF-1423-4940-A4EF-91A0106A3BDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DB59F45-E1A8-472C-BE4D-E4706F87D539}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DB59F45-E1A8-472C-BE4D-E4706F87D539}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DB59F45-E1A8-472C-BE4D-E4706F87D539}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DB59F45-E1A8-472C-BE4D-E4706F87D539}.Release|Any CPU.Build.0 = Release|Any CPU
+		{486B33AF-1423-4940-A4EF-91A0106A3BDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{486B33AF-1423-4940-A4EF-91A0106A3BDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{486B33AF-1423-4940-A4EF-91A0106A3BDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{486B33AF-1423-4940-A4EF-91A0106A3BDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB905CC7-3126-4CCC-874B-E227F5B8176F}
+	EndGlobalSection
+EndGlobal

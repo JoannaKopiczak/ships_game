@@ -1,0 +1,9 @@
+C:\Users\ThinkPad\source\repos\STATKI\STATKI\bin\Debug\STATKI.exe.config
+C:\Users\ThinkPad\source\repos\STATKI\STATKI\bin\Debug\STATKI.exe
+C:\Users\ThinkPad\source\repos\STATKI\STATKI\bin\Debug\STATKI.pdb
+C:\Users\ThinkPad\source\repos\STATKI\STATKI\obj\Debug\STATKI.csprojAssemblyReference.cache
+C:\Users\ThinkPad\source\repos\STATKI\STATKI\obj\Debug\STATKI.Form1.resources
+C:\Users\ThinkPad\source\repos\STATKI\STATKI\obj\Debug\STATKI.Properties.Resources.resources
+C:\Users\ThinkPad\source\repos\STATKI\STATKI\obj\Debug\STATKI.csproj.GenerateResource.cache
+C:\Users\ThinkPad\source\repos\STATKI\STATKI\obj\Debug\STATKI.exe
+C:\Users\ThinkPad\source\repos\STATKI\STATKI\obj\Debug\STATKI.pdb
